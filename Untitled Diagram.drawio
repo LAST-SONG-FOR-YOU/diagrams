@@ -1,1 +1,259 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T09:00:37.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="HPIjOd71MkbB01ODq33w" version="14.4.4" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-05T09:39:38.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="8sn6-raJ62UB0az69t2S" version="14.4.4" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="交易中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="用户进入交易中心页面" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="工保科技" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-1" value="中投保" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="HbW3pa40i1KAL5VEuSZW-1">
+          <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-7" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-8" value="3.1.1 投保请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-9" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="170" as="sourcePoint" />
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-10" value="投保申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="253" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-12" value="3.2.1 保单回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-13" value="用户在中投保完成投保支付操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-14" value="投保申请结果通知" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry x="-0.1453" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="280" as="sourcePoint" />
+            <mxPoint x="395" y="230" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-16" value="项目开标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="sourcePoint" />
+            <mxPoint x="230" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-23" value="3.1.2 批改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="350" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-24" value="开标请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="400" as="sourcePoint" />
+            <mxPoint x="395" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-26" value="还原通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="460" as="sourcePoint" />
+            <mxPoint x="220" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-28" value="项目流标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-30" value="流标请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="sourcePoint" />
+            <mxPoint x="410" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-33" value="3.1.4退保请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="450" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-34" value="担保公司受理退保后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-36" value="3.2.2 退保回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="490" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-37" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="540" as="sourcePoint" />
+            <mxPoint x="395" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-38" value="退保成功通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-40" value="开标后流标场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-42" value="交易中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="750" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-43" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="HbW3pa40i1KAL5VEuSZW-42">
+          <mxGeometry x="45" y="70" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-44" value="用户进入交易中心页面" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="HbW3pa40i1KAL5VEuSZW-42" target="HbW3pa40i1KAL5VEuSZW-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-45" value="工保科技" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="750" width="100" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-46" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="HbW3pa40i1KAL5VEuSZW-45">
+          <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-47" value="中投保" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-48" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="HbW3pa40i1KAL5VEuSZW-47">
+          <mxGeometry x="45" y="80" width="10" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-49" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="880" as="sourcePoint" />
+            <mxPoint x="380" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-50" value="3.1.1 投保请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="860" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-51" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="840" as="sourcePoint" />
+            <mxPoint x="330" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-52" value="投保申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="820" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-53" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="923" as="sourcePoint" />
+            <mxPoint x="430" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-54" value="3.2.1 保单回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="900" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-55" value="用户在中投保完成投保支付操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="890" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-56" value="投保申请结果通知" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-42">
+          <mxGeometry x="-0.1453" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="950" as="sourcePoint" />
+            <mxPoint x="375" y="900" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-57" value="项目开标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="980" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-58" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1030" as="sourcePoint" />
+            <mxPoint x="210" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-59" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1040" as="sourcePoint" />
+            <mxPoint x="390" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-60" value="3.1.2 批改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1020" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-61" value="开标请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1010" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-62" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="1070" as="sourcePoint" />
+            <mxPoint x="375" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-63" value="还原通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1050" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-64" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="1130" as="sourcePoint" />
+            <mxPoint x="200" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-65" value="用户在交易中心发起理赔" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1090" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-66" value="理赔请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1110" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-67" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HbW3pa40i1KAL5VEuSZW-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1140" as="sourcePoint" />
+            <mxPoint x="390" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-68" value="3.1.3理赔请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1120" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HbW3pa40i1KAL5VEuSZW-74" value="开标后理赔场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="680" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
