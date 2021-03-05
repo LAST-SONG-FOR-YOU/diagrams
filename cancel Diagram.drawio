@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T09:54:27.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="2kIOL7eiccEdU-TxvV-n" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T09:59:14.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6_CH4wXp1qip0N_Tr3o7" version="14.4.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -233,9 +233,6 @@
         <mxCell id="3hkl68ZtvTaIpeplbh0N-130" value="还原通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1540" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3hkl68ZtvTaIpeplbh0N-132" value="项目流标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1580" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="3hkl68ZtvTaIpeplbh0N-136" value="用户在中投保申请发票成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="1560" width="150" height="20" as="geometry" />
         </mxCell>
@@ -253,6 +250,93 @@
         </mxCell>
         <mxCell id="3hkl68ZtvTaIpeplbh0N-145" value="3.2.3 发票回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="1580" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-146" value="用户在中投保申请发票" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1220" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-174" value="交易中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1860" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-175" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3hkl68ZtvTaIpeplbh0N-174">
+          <mxGeometry x="45" y="70" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-176" value="用户进入交易中心页面" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="3hkl68ZtvTaIpeplbh0N-174" target="3hkl68ZtvTaIpeplbh0N-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-177" value="中投保" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1860" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-178" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3hkl68ZtvTaIpeplbh0N-177">
+          <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-179" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="3hkl68ZtvTaIpeplbh0N-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="1990" as="sourcePoint" />
+            <mxPoint x="405" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-180" value="3.1.1 投保请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1970" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-181" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="1950" as="sourcePoint" />
+            <mxPoint x="355" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-182" value="投保申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1930" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-183" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="2033" as="sourcePoint" />
+            <mxPoint x="354.5" y="2033" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-184" value="3.2.1 保单回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2010" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-185" value="用户在中投保完成投保支付操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="2000" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-186" value="投保申请结果通知" style="endArrow=classic;html=1;" edge="1" parent="1" target="3hkl68ZtvTaIpeplbh0N-174">
+          <mxGeometry x="-0.1453" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="2060" as="sourcePoint" />
+            <mxPoint x="400" y="2010" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-192" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="3hkl68ZtvTaIpeplbh0N-174">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="2180" as="sourcePoint" />
+            <mxPoint x="400" y="2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-193" value="退保成功通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2160" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-195" value="用户在中投保申请退保，担保公司受理成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2079.6" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-196" value="工保科技" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1860" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-197" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3hkl68ZtvTaIpeplbh0N-196">
+          <mxGeometry x="45" y="70" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-198" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.75" y="2119.4" as="sourcePoint" />
+            <mxPoint x="360.25" y="2119.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-200" value="用户在中投保申请退保" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1840" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hkl68ZtvTaIpeplbh0N-202" value="3.2.2 退保回执" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395.25" y="2099.6" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
